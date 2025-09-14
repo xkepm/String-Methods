@@ -63,5 +63,3 @@ You will need to use most of the functions listed in the summary section.
 - Try `int("hello")` → what happens?  
 
 ---
-
-✅ Complete each step and write down the results to see how Python compares, sorts, and converts strings.  
